@@ -1,0 +1,95 @@
+.heading {
+    font-family: "Barlow", sans-serif;
+    color: #fff;
+    font-weight: 700;
+    position: absolute;
+    font-size: 60px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);  
+  }
+  /* .MuiButton-outlinedPrimary :hover{
+    color: #fff !important;
+    border: 1px solid #fff !important
+}
+
+.MuiButton-outlinedPrimary {
+  color:#ffb400 !important;
+  border: 1px solid #ffb400 !important
+} */
+.about{
+  font-family: "Barlow", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  padding-top: 15px;
+  padding-left: 25px;
+}
+.preHeading{
+  font-family: "Barlow", sans-serif;
+  font-size: 44px ;
+  font-weight: 700;
+  color:#4b39b5;
+  padding-left: 25px;
+  line-height: 1.2;
+}
+.butn {
+  border: 2px solid black;
+ border-radius: 8px;
+  background-color: transparent;
+  padding: 10px 18px;
+  font-size: 16px;
+  cursor: pointer;
+  position: absolute;
+  right: 10%;
+}
+
+.warning {
+  border-color: #ffb400;
+  color: #ffb400;
+}
+.warning:hover {
+  background: #ffb400;
+  color: white;
+}
+.loginBtn{
+color: #fff;
+position: absolute;
+right: 300px;
+cursor: pointer;
+}
+
+.loginBtn:hover{
+  color:  #ffb400
+}
+.mentor{
+  font-family: "Barlow", sans-serif;
+  color: #fff;
+  font-weight: 500;
+  font-size: 25px;
+  
+}
+
+.mate{
+  font-family: "Barlow", sans-serif;
+  color:  #ffb400;
+  font-weight: 500;
+  font-size: 25px;
+}
+.div-img{
+  height: 650px;
+  position: absolute;
+  left: 0;
+  float: left;
+}
+.contactImage{
+  height: 500px;
+  width:100%;
+  margin-top: 130px;
+}
+.contactText{
+  font-family: "Barlow", sans-serif;
+  color:  #4b39b5;
+  font-weight: 700;
+  font-size: 18px;
+  
+}
